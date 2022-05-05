@@ -10,7 +10,7 @@ Spring-boot is a framework to built Java based web applications.
 
 ### Tutorial
 
-- Hello World
+- <s>Hello World</s>
 - add two integers
 - CRUD
 - ??
