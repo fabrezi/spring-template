@@ -10,5 +10,7 @@ Spring-boot is a framework to built Java based web applications.
 
 ## Annotations
 
-The ones that I find of application are `@RestController`, `@RequestMapping`
-and other similar kinds.
+Annotation are the key to the workings of Spring. These are the following:
+
+- `@RestController`:
+- `@GetMapping`:
