@@ -8,9 +8,16 @@ Spring-boot is a framework to built Java based web applications.
 2. fix the source root, java jdk setup and set the pom.xml to maven project.
 3. invalidate cache and restart the project.
 
+### Tutorial
+
+- Hello World
+- add two integers
+- CRUD
+- ??
+
 ## Annotations
 
 Annotation are the key to the workings of Spring. These are the following:
 
-- `@RestController`:
-- `@GetMapping`:
+- `@RestController`: This is to handle HTTP request
+- `@GetMapping`: 
