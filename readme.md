@@ -21,3 +21,8 @@ Annotation are the key to the workings of Spring. These are the following:
 
 - `@RestController`: This is to handle HTTP request
 - `@GetMapping`: 
+
+### Side-bar notes:
+
+IntelliJ shortcut to terminal open in Windows: `Alt+F12` doesn't work.
+Maybe need a script that could do it. Not sure.
