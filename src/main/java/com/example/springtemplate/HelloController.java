@@ -20,21 +20,12 @@ public class HelloController {
     @GetMapping("/v1")
     public String job(){return "yahbadadoo";}
 
-    //private static final String template = "Hello, %s!";
+    @GetMapping("/v2")
+    public Users getUsers(){
 
-//    @GetMapping("/hello2")
-//    public Greeting greeting(@RequestParam(value="name") String name){
-//        return new greeting(String.format(template,name));
-//    }
+    }
 
-    //what is autowire
 
-    //get to read the uuid
-//    @GetMapping()
-//    public ResponseEntity<List<V>> getAllUsers(){
-//        logger.info("Get All Users:");
-//
-//    }
 
 
 
