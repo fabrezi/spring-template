@@ -20,10 +20,10 @@ public class HelloController {
     @GetMapping("/v1")
     public String job(){return "yahbadadoo";}
 
-    @GetMapping("/v2")
-    public Users getUsers(){
-
-    }
+//    @GetMapping("/v2")
+//    public Users getUsers(){
+//
+//    }
 
 
 
