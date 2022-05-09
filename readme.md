@@ -12,7 +12,7 @@ Spring-boot is a framework to built Java based web applications.
 
 - <s>Hello World</s>
 - add two integers
-- CRUD
+- CRUD: coffee-shop
 - ??
 
 ## Annotations
