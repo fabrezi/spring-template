@@ -37,3 +37,8 @@ are following: Tech Stack:
 
 > Design a spring application that can store and retrieve
 > the grades of students.
+
+- Currently there is a project build failure. This is hard fix.
+- it is an error message related to bean factory.
+- currently using a working branch (another one) to setup the PG.
+- 

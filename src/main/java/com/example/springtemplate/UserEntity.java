@@ -11,7 +11,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import java.util.UUID;
 
-@Entity
+@Entity //indicate that the class is a persistent java class
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
@@ -19,6 +19,6 @@ import java.util.UUID;
 @Table(name="user")
 @JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
 public class UserEntity {
-    @Id
+    @Id //primary key
     private UUID id;
 }
